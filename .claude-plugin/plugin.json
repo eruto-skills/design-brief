@@ -1,0 +1,21 @@
+{
+  "name": "design-brief",
+  "description": "Define visual design direction for a Remotion presentation. Reads the content outline, proposes 2-3 design concepts (color palette, typography, animation language, mood), then generates a theme TypeScript file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eruto Kondo",
+    "email": "erutobusiness@gmail.com"
+  },
+  "homepage": "https://github.com/eruto-skills/design-brief",
+  "repository": "https://github.com/eruto-skills/design-brief",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-skill",
+    "design",
+    "remotion",
+    "presentation",
+    "brand",
+    "typography"
+  ]
+}
