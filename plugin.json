@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "design-brief",
   "description": "Define visual design direction for a Remotion presentation. Reads the content outline, proposes 2-3 design concepts (color palette, typography, animation language, mood), then generates a theme TypeScript file.",
   "version": "1.1.0",
@@ -17,6 +18,5 @@
     "presentation",
     "brand",
     "typography"
-  ],
-  "skills": "./skills/"
+  ]
 }
